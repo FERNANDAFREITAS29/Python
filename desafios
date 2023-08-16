@@ -1,0 +1,34 @@
+# desafio 3
+'''
+num_1 = 10
+num_2 = 3.5
+
+print(num_1 / num_2)
+
+'''
+
+'''
+# desafio 4
+
+nome = input('qual o seu nome: ola ')
+idade = input('qual a sua idade: anos')
+
+print('nome')
+print('idade')
+
+'''
+
+# desafio 5
+
+numero = 2
+numero = 5
+
+print( 2 + 5)
+
+print( 2 - 5)
+
+print(2 * 5)
+
+print(2 / 5)
+
+print(2 ** 5)
